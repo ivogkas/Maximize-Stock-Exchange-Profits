@@ -4,7 +4,7 @@ This project explores a "time-travel" trading problem, which refers to in a hypo
 
 
 ## Problem Description
-The task is to devise a sequence of stock transactions that maximize profits for a given number of moves. Each move consists of a tuple (day, action, stock, quantity), where:
+The task is to create a sequence of stock transactions that maximize profits for a given number of moves. Each move consists of a tuple (day, action, stock, quantity), where:
 
 * day: The date of the transaction.
 * action: The type of transaction, which can be "buy-low", "sell-high", "buy-open", "sell-open", "buy-close", or "sell-close".
@@ -21,7 +21,7 @@ The actions considered are:
 For more details, please refer to the problem.pdf file.
 
 ## Dataset
-Historical stock price data for the New York Stock Exchange is provided, including opening, closing, high, low prices, and volume for each stock on a daily basis. For more details, please refer to the zip file.
+The dataset consists of historical stock price data, including opening, closing, high, low prices, and volume for each stock on a daily basis. For more details, please refer to the zip file.
 
 ## Solution
 I was required to submit two sequences of stock transactions: (i) A sequence of up to 1000 transactions and (ii) a sequence of up to 1,000,000 transactions. For each sequence, I created a chart which depicts the evaluations over time.
