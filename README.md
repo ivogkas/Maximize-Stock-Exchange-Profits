@@ -1,6 +1,8 @@
 # Maximize-Stock-Exchange-Profits
 
-This project explores a "time-travel" trading problem, which refers to in a hypothetical scenario enables trading stocks not only on the current day but also on any chosen past date. The concept is based on a discovery of a mechanism to execute stock transactions using a bank account that, somehow, allows trading in the past.
+Project for the Masters' degree course «Programming Tools and Technologies for Data Science» (2023). 
+
+This project explores a "time-travel" trading problem, which refers to a hypothetical scenario which enables trading stocks not only on the current day but also on any chosen past date. The concept involves developing a mechanism to execute stock transactions in the past, with purpose to generate a very large revenue. 
 
 
 ## Problem Description
