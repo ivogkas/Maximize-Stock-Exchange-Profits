@@ -18,12 +18,12 @@ The actions considered are:
 
 * buy-low: Buy at the lowest price.
 * sell-high: Sell at the highest price.
-* buy-open, sell-open, buy-close, sell-close: Intra-day trading actions, exploit price fluctuations within a single day.
+* buy-open, sell-open, buy-close, sell-close: Intra-day trading actions (exploit price fluctuations within a single day).
 
 For more details, please refer to the problem.pdf file.
 
 ## Dataset
-The dataset consists of historical stock price data, including opening, closing, high, low prices, and volume for each stock on a daily basis. For more details, please refer to: https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-stocks-etfs?resource=download.
+The dataset consists of historical stock price data, including opening, closing, highest, lowest prices, and volume for each stock on a daily basis. For more details, please refer to: https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-stocks-etfs?resource=download.
 
 ## Solution
 I was required to submit two sequences of stock transactions: (i) A sequence of up to 1000 transactions and (ii) a sequence of up to 1,000,000 transactions. For each sequence, I created a chart which depicts the evaluations over time.
