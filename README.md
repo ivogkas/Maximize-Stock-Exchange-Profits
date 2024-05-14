@@ -20,7 +20,7 @@ The actions considered are:
 * sell-high: Sell at the highest price.
 * buy-open, sell-open, buy-close, sell-close: Intra-day trading actions (exploit price fluctuations within a single day).
 
-For more details, please refer to the problem.pdf file.
+For more details, please refer to the assignment.pdf file.
 
 ## Dataset
 The dataset consists of historical stock price data, including opening, closing, highest, lowest prices, and volume for each stock on a daily basis. For more details, please refer to: https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-stocks-etfs?resource=download.
